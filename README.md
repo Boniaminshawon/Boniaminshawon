@@ -9,7 +9,6 @@ Feel free to explore my repositories to see my work, and don't hesitate to reach
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boniaminshawon&label=Profile%20views&color=0e75b6&style=flat" alt="boniaminshawon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boniaminshawon" alt="boniaminshawon" /></a> </p>
 
 - 🔭 I’m currently working on [AItech Project](https://ai-tech-ae69b.web.app/)
 
