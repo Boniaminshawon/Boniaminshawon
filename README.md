@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Boni Amin Shawon</h1>
 <h3 align="center">Passionate Front-End Web Developer | Crafting Interactive & Responsive Designs from Bangladesh</h3>
 
+Hello! I'm a passionate Front-End Web Developer from Bangladesh with a strong enthusiasm for learning and growing in the field of web development. I continuously strive to improve my skills and stay up-to-date with the latest technologies and trends. 
+
+I have already completed three full-stack projects, showcasing my ability to handle both front-end and back-end development tasks. My projects reflect my dedication to crafting interactive and responsive web designs that provide excellent user experiences.
+
+Feel free to explore my repositories to see my work, and don't hesitate to reach out if you'd like to collaborate or discuss anything web development related!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boniaminshawon&label=Profile%20views&color=0e75b6&style=flat" alt="boniaminshawon" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boniaminshawon" alt="boniaminshawon" /></a> </p>
@@ -9,7 +15,9 @@
 
 - 🌱 I’m currently learning **Next JS.**
 
-- 📫 How to reach me **Email: boniamin2971@gmail.com | Contact: +880 18761 58706**
+- 💬 Ask me about HTML, CSS, JavaScript, and React. 
+
+- 📫 How to reach me:  **Email : boniamin2971@gmail.com | Linkedin : www.linkedin.com/in/md-boni-amin | Contact : +880 18761 58706** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q1ulpExdkZLL5Q7cbW5CZHl8zsQ_iXGZ/view](https://drive.google.com/file/d/1q1ulpExdkZLL5Q7cbW5CZHl8zsQ_iXGZ/view)
 
