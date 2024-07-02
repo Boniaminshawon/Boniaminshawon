@@ -10,7 +10,7 @@ I have already completed three full-stack projects, showcasing my ability to han
 
 Feel free to explore my repositories to see my work, and don't hesitate to reach out if you'd like to collaborate or discuss anything web development related!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boniaminshawon&label=Profile%20views&color=0e75b6&style=flat" alt="boniaminshawon" /> </p>
+<h2 align="left"> Overview: </h2>
 
 
 - 🔭 I’m currently working on [AItech Project](https://ai-tech-ae69b.web.app/)
