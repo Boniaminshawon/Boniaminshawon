@@ -26,7 +26,7 @@ Feel free to explore my repositories to see my work, and don't hesitate to reach
 <h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/md-boni-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-boni-amin" height="50" width="50" /></a>
-<a href="https://fb.com/mdboni.amin.71271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdboni.amin.71271" height="50" width="50" /></a>
+<a  style="margin-right: 8" href="https://fb.com/mdboni.amin.71271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdboni.amin.71271" height="50" width="50" /></a>
 </p>
 
 <h2 align="left">Familiar Tech and Skills:</h2>
@@ -45,6 +45,6 @@ Feel free to explore my repositories to see my work, and don't hesitate to reach
 <h2 align="left">Current Stats:</h2>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boniaminshawon&show_icons=true&locale=en&layout=compact" alt="boniaminshawon" /></p> -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=boniaminshawon&show_icons=true&locale=en" alt="boniaminshawon" /></p>
+<p>&nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=boniaminshawon&show_icons=true&locale=en" alt="boniaminshawon" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=boniaminshawon&" alt="boniaminshawon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boniaminshawon&" alt="boniaminshawon" /></p>
