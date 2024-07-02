@@ -26,7 +26,7 @@ Feel free to explore my repositories to see my work, and don't hesitate to reach
 <h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/md-boni-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-boni-amin" height="45" width="45" /></a>
-<a  margin-right='4px' href="https://fb.com/mdboni.amin.71271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdboni.amin.71271" height="45" width="45" /></a>
+<a  margin-left='4px' href="https://fb.com/mdboni.amin.71271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdboni.amin.71271" height="45" width="45" /></a>
 </p>
 
 <h2 align="left">Familiar Tech and Skills:</h2>
